@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178" height="73" viewBox="0 0 178 73">
+  <defs>
+    <clipPath id="clip-path">
+      <text id="Pizza" transform="translate(318.959 85.962)" fill="#ea2229" font-size="72.625" font-family="Helvetica"><tspan x="0" y="0">Pizza</tspan></text>
+    </clipPath>
+  </defs>
+  <g id="Pizza-2" data-name="Pizza" transform="translate(-318.959 -29.962)">
+    <text id="Pizza-3" data-name="Pizza" transform="translate(318.959 85.962)" fill="#ea2229" font-size="72.625" font-family="Helvetica"><tspan x="0" y="0">Pizza</tspan></text>
+    <g id="Clip" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="48.75" cy="26.45" rx="48.75" ry="26.45" transform="translate(399.34 19)" fill="#282828"/>
+    </g>
+  </g>
+</svg>
